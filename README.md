@@ -43,4 +43,4 @@ Dashboard Preview
 
 Use the dashboard screenshot you shared as your preview image in GitHub.
 
-(Example: )
+(Example:https://github.com/S-Mustakheem/SQL-Sale-Dashboard/blob/main/sql%20screenshot.jpeg )
